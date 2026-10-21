@@ -1,8 +1,0 @@
-{
-  "appId": "com.kinter.demo.deviceinfo",
-  "name": "设备信息",
-  "version": "1.0.0",
-  "category": "工具",
-  "description": "设备信息示例",
-  "minHostVersion": "1.0.0"
-}
