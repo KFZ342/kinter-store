@@ -1,0 +1,83 @@
+{
+  "name": "Kinter 官方源",
+  "identifier": "com.kinter.source.official",
+  "subtitle": "共 6 个应用",
+  "website": "https://github.com/USER/kinter-store",
+  "apps": [
+    {
+      "appId": "com.kinter.demo.datademo",
+      "name": "数据目录",
+      "version": "1.0.0",
+      "subtitle": "",
+      "description": "数据目录示例",
+      "category": "开发",
+      "size": 3871,
+      "sha256": "9446bd35fd887387842c1fd42cc58e3fc73fe055e730d3bc8901bc2c9353c111",
+      "minHostVersion": "1.0.0",
+      "downloadURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/data-demo/1.0.0.zip",
+      "iconURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/data-demo/icon.png"
+    },
+    {
+      "appId": "com.kinter.demo.deviceinfo",
+      "name": "设备信息",
+      "version": "1.0.0",
+      "subtitle": "",
+      "description": "设备信息示例",
+      "category": "工具",
+      "size": 4216,
+      "sha256": "f1b1e671b14b1a3d2a5224d729085f715a3ecfe3638872a618656c0942a05985",
+      "minHostVersion": "1.0.0",
+      "downloadURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/device-info/1.0.0.zip",
+      "iconURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/device-info/icon.png"
+    },
+    {
+      "appId": "com.kinter.demo.multipage",
+      "name": "多页示例",
+      "version": "1.0.0",
+      "subtitle": "",
+      "description": "多页示例示例",
+      "category": "开发",
+      "size": 3070,
+      "sha256": "1be9802c412bd6b49386df2bd797f98fb1536eb2d5206e4c6dbc52b9cc2f9ce7",
+      "minHostVersion": "1.0.0",
+      "downloadURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/multipage/1.0.0.zip"
+    },
+    {
+      "appId": "com.kinter.demo.popup",
+      "name": "弹窗演示",
+      "version": "1.0.0",
+      "subtitle": "",
+      "description": "弹窗演示示例",
+      "category": "开发",
+      "size": 2088,
+      "sha256": "a46c38bb1e57e9afb4e3311ceddcec041491555977847118e53b7eb13dc6137a",
+      "minHostVersion": "1.0.0",
+      "downloadURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/popup-demo/1.0.0.zip"
+    },
+    {
+      "appId": "com.kinter.demo.selftest",
+      "name": "能力自检",
+      "version": "1.0.0",
+      "subtitle": "",
+      "description": "能力自检示例",
+      "category": "开发",
+      "size": 3380,
+      "sha256": "4a856bb1a90d88e598989eb14ca7df8d00b5fca3c0e4a308253d2f7b91f61ad3",
+      "minHostVersion": "1.0.0",
+      "downloadURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/selftest/1.0.0.zip"
+    },
+    {
+      "appId": "com.kinter.demo.storedemo",
+      "name": "全局数据",
+      "version": "1.0.0",
+      "subtitle": "",
+      "description": "全局数据示例",
+      "category": "开发",
+      "size": 5291,
+      "sha256": "497467b1700ad816cb255daf51ada617f33d70fff0cdafe24d398df49a386832",
+      "minHostVersion": "1.0.0",
+      "downloadURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/store-demo/1.0.0.zip",
+      "iconURL": "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main/apps/store-demo/icon.png"
+    }
+  ]
+}
