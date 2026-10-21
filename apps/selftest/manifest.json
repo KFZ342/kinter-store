@@ -1,0 +1,8 @@
+{
+  "appId": "com.kinter.demo.selftest",
+  "name": "能力自检",
+  "version": "1.0.0",
+  "category": "开发",
+  "description": "能力自检示例",
+  "minHostVersion": "1.0.0"
+}
