@@ -27,7 +27,7 @@ ROOT = Path(__file__).parent.resolve()
 APPS_DIR = ROOT / "apps"
 
 # 默认 base URL（用户改成自己的 GitHub 用户名/仓库名）
-DEFAULT_BASE = "https://fastly.jsdelivr.net/gh/KFZ342/kinter-store@main"
+DEFAULT_BASE = "https://kfz342.github.io/kinter-store"
 BASE_URL = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_BASE
 
 
