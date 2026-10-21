@@ -1,8 +1,0 @@
-{
-  "appId": "com.kinter.demo.popup",
-  "name": "弹窗演示",
-  "version": "1.0.0",
-  "category": "开发",
-  "description": "弹窗演示示例",
-  "minHostVersion": "1.0.0"
-}
